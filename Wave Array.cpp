@@ -1,3 +1,6 @@
+#include <algorithm>
+#include <vector>
+
 vector<int> Solution::wave(vector<int> &arr) {
 
     int len=arr.size();
